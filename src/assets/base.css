@@ -1,0 +1,12 @@
+body {
+  position: relative;
+  /* 设计稿的尺寸 */
+  width: 1920px;
+  height: 1080px;
+
+  /* border: 3px solid red; */
+  box-sizing: border-box;
+
+  /* 修改形变的原点坐标为左上角 */
+  transform-origin: left top;
+}
